@@ -1,0 +1,19 @@
+{
+  "name": "ejerciciobanco_fronted",
+  "version": "0.0.1",
+  "description": "ayuda",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Juanma29/banco_frontend.git"
+  },
+  "author": "mabel crash",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Juanma29/banco_frontend/issues"
+  },
+  "homepage": "https://github.com/Juanma29/banco_frontend#readme"
+}
